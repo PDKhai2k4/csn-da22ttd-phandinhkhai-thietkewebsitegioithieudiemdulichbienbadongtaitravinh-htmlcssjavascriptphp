@@ -30,7 +30,7 @@ Website này được phát triển nhằm giới thiệu vẻ đẹp của Bi�
 3. **Tải mã nguồn**:
    - Clone repository:
      ```bash
-     git clone https://github.com/your-repo/website-bien-ba-dong.git
+     git clone https://github.com/PDKhai2k4/csn-da22ttd-phandinhkhai-thietkewebsitegioithieudiemdulichbienbadongtaitravinh-htmlcssjavascriptphp.git
      ```
    - Di chuyển mã nguồn vào thư mục `htdocs` của XAMPP.
 
