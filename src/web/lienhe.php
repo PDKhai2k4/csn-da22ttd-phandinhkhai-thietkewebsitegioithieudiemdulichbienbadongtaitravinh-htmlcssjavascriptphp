@@ -87,7 +87,7 @@ include "auth.php";
                 <li><a class="dropdown-item" href="baivietcuatoi.php">Bài viết của tôi</a></li>
                 <li>
                     <!-- Form đăng xuất ngay trong dropdown -->
-                    <form method="post" action="index.php">
+                    <form method="post" action="logout.php">
                         <button href="logout.php" type="submit" name="logout" class="dropdown-item">Đăng xuất</button>
                     </form>
                 </li>
